@@ -6,4 +6,4 @@ Semana Front-End, é um projeto da DIO - 'Digital Inovation One', onde eu tive c
 
 ## Acesse a página!
 
-[Mundo Invertido](http://127.0.0.1:5500/index.html)
+[Mundo Invertido]( https://projeto-front--end.web.app)
